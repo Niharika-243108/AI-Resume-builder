@@ -1,0 +1,6 @@
+{
+  "name": "ResumeCraft",
+  "description": "AI-powered resume maker and cover letter generator for job seekers, featuring real-time suggestions and expert template styling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
